@@ -15,24 +15,12 @@
    <header>
 	<div class="container">
          <div class="col-lg-12">
-      <div id="topbar">
-         <div id="leftheader">
-            <h2 class="left">AwesomeTheSauce</h2>
-            <b>
-               <h5 class="left"><i>Empowering Wizheads!</i></h5>
-            </b>
-         </div>
-         <div id="midheader">
             <img id="logo" class="logoImage" border="0" alt="logo" src="images/logo.png">
-         </div>
-         <div id="rightheader">
-            <div>
-				<div class="g-ytsubscribe" data-channelid="UC2FscK2dqX3s_m4ESWCnppA" data-layout="full" data-count="default"></div>
-               <!--<button class="btn1" type="button" onclick="window.open ('https://streamlabs.com/awesomethesauce', ''); return false" href="javascript:void(0);">StreamLabs</button>-->
-			   <a href="https://twitter.com/awesomethesalsa" class="twitter-follow-button" data-show-count="false">Follow @AwesomeTheSalsa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-            </div>
-	</div>
-      </div>
+		<ul class="list-inline">
+               <li>
+                  <a href="https://twitter.com/awesomethesalsa" class="twitter-follow-button" data-show-count="false">Follow @AwesomeTheSalsa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+               </li>
+            </ul>
          </div>
       </div>
    </header>
