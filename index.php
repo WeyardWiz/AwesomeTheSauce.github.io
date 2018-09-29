@@ -14,7 +14,7 @@
    </head>
    <header>
 	<div class="container">
-         <div class="col-sm-6 col-lg-6">
+         <div class="col-sm-8 col-lg-12">
             <img id="logo" class="logoImage" border="0" alt="logo" src="images/logo.png">
 		<ul class="list-inline">
                <li>
