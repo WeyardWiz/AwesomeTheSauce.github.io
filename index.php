@@ -16,7 +16,7 @@
 	<div class="container">
          <div class="col-lg-12">
             <img id="logo" class="logoImage" border="0" alt="logo" src="images/logo.png">
-		<ul class="list-inline">
+		<ul class="list-inline" margin-top: 25px>
                <li>
                   <a href="https://twitter.com/awesomethesalsa" class="twitter-follow-button" data-show-count="false">Follow @AwesomeTheSalsa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                </li>
