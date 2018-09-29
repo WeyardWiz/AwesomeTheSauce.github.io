@@ -12,16 +12,18 @@
       <script src="javascript/bootstrap.min.js"></script> <!-- Bootstrap JavaScript -->
 	  <script src="https://apis.google.com/js/platform.js"></script> <!-- YoutTube -->
    </head>
-   <header>
+   <footer>
 	<div class="container">
+		<div class="col-lg-12">
             <img id="logo" class="logoImage" border="0" alt="logo" src="images/logo.png">
 		<ul class="list-inline">
                <li>
                   <a href="https://twitter.com/awesomethesalsa" class="twitter-follow-button" data-show-count="false">Follow @AwesomeTheSalsa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                </li>
 	</ul>
+		</div>
       </div>
-   </header>
+   </footer>
    <div class="RetroIntroductionHeaderStyle">
       <div class="container">
          <div class="col-lg-12">
