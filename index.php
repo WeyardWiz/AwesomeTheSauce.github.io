@@ -77,7 +77,7 @@
 			<div class="g-ytsubscribe" data-channelid="UC2FscK2dqX3s_m4ESWCnppA" data-layout="full" data-count="default"></div>
          </div>
          <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-            <iframe style="position: relative; width="100%" height="100%" src="https://www.youtube.com/embed/eu5pFpfQJA4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/eu5pFpfQJA4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
          </div>
       </div>
    </div>
