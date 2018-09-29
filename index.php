@@ -52,7 +52,7 @@
             <hr class="HeadingOfSection-space">
             <div class="clearfix"></div>
             <h2 class="HeadingOfSection">Wizard101?</h2>
-            <p class="writing">Wizard101 is "Highly acclaimed" MMORPG card game, free to play rated everyone 10+! Oh and its on STEEAMMM...</p>
+            <p class="writing">Wizard101 is a "Highly acclaimed" MMORPG card game, free to play rated everyone 10+! Oh and its on STEEAMMM...</p>
 			<button class="btn1" type="button" onclick="window.open ('https://www.wizard101.com/', ''); return false" href="javascript:void(0);">Wizard101</button>
 			<button class="btn1" type="button" onclick="window.open ('https://store.steampowered.com/app/799960/Wizard101/', ''); return false" href="javascript:void(0);">Wizard101-STEAM</button>
          </div>
