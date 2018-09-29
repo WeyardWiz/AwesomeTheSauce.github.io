@@ -83,7 +83,7 @@
    </div>
    <div class="ContentSection2">
       <div class="container">
-		<div class="col-lg-5 col-lg-offset-1 col-sm-push-4  col-sm-4"><!-- center alignment by bootstrap; col-sm-push-1 seems to be the main factor for alignment here...-->
+		<div class="col-lg-5 col-lg-offset-1 col-sm-push-2  col-sm-4"><!-- center alignment by bootstrap; col-sm-push-1 seems to be the main factor for alignment here...-->
 	<!-- Add a placeholder for the Twitch embed -->
     <div id="twitch-embed"></div>
 
