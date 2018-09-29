@@ -93,8 +93,8 @@
     <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
     <script type="text/javascript">
       new Twitch.Embed("twitch-embed", {
-        width: 854,
-        height: 480,
+        width: 100%,
+        height: 100%,
         channel: "Awesomethesauce12345"
       });
     </script>
