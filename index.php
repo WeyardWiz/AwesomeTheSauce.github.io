@@ -13,7 +13,7 @@
 	  <script src="https://apis.google.com/js/platform.js"></script> <!-- YoutTube -->
    </head>
    <header>
-      <div id="topbar">
+      <div id="topbar" class="col-lg-12">
          <div id="leftheader">
             <h2 class="left">AwesomeTheSauce</h2>
             <b>
