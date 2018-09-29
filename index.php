@@ -14,14 +14,12 @@
    </head>
    <header>
 	<div class="container">
-         <div class="col-xs-6 col-md-7 col-lg-12">
             <img id="logo" class="logoImage" border="0" alt="logo" src="images/logo.png">
 		<ul class="list-inline">
                <li>
                   <a href="https://twitter.com/awesomethesalsa" class="twitter-follow-button" data-show-count="false">Follow @AwesomeTheSalsa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                </li>
-            </ul>
-         </div>
+	</ul>
       </div>
    </header>
    <div class="RetroIntroductionHeaderStyle">
