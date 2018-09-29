@@ -14,16 +14,16 @@
    </head>
    <header>
       <div id="topbar" class="col-lg-12">
-         <div id="leftheader">
+         <div id="leftheader" class="col-lg-12>
             <h2 class="left">AwesomeTheSauce</h2>
             <b>
                <h5 class="left"><i>Empowering Wizheads!</i></h5>
             </b>
          </div>
-         <div id="midheader">
+         <div id="midheader" class="col-lg-12>
             <img id="logo" class="logoImage" border="0" alt="logo" src="images/logo.png">
          </div>
-         <div id="rightheader">
+         <div id="rightheader" class="col-lg-12>
             <div>
 				<div class="g-ytsubscribe" data-channelid="UC2FscK2dqX3s_m4ESWCnppA" data-layout="full" data-count="default"></div>
                <!--<button class="btn1" type="button" onclick="window.open ('https://streamlabs.com/awesomethesauce', ''); return false" href="javascript:void(0);">StreamLabs</button>-->
