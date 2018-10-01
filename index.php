@@ -111,7 +111,7 @@
             </ul>
             <p class="copyright">Copyright &copy; AwesomeTheSauce 2018. All Rights Reserved</p>
 		<p class="copyright">Webpage developed by:</p>
-		<div class="g-ytsubscribe" data-channelid="UC8hvrwd0StsX7TSdZ3O2bmg" data-layout="full" data-count="hidden"></div>
+		<div class="g-ytsubscribe" data-channelid="UC8hvrwd0StsX7TSdZ3O2bmg" data-layout="full" data-count="default"></div>
          </div>
       </div>
    </footer>
