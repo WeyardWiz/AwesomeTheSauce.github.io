@@ -10,7 +10,7 @@
       <link href="css/homepageStyle.css" rel="stylesheet">
       <script src="javascript/jquery.js"></script>
       <script src="javascript/bootstrap.min.js"></script> <!-- Bootstrap JavaScript -->
-	  <script src="https://apis.google.com/js/platform.js"></script> <!-- YoutTube -->
+	<script src="https://apis.google.com/js/platform.js"></script> <!-- YoutTube -->
    </head>
    <footer>
 	<div class="container">
@@ -21,7 +21,7 @@
                   <a href="https://twitter.com/awesomethesalsa" class="twitter-follow-button" data-show-count="false">Follow @AwesomeTheSalsa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                </li>
 	</ul>
-		</div>
+	</div>
       </div>
    </footer>
    <div class="RetroIntroductionHeaderStyle">
@@ -33,7 +33,7 @@
                <h3 style="color:lightgreen;">Saucing forever ~<!--<br><i>~</i> Saucia.</br>--> </h3>
                <hr class="RetroIntroductionDivider">
                <h4 style="color:white;">Like the content? Support me on</h4> <h4 style="color:orange;">YouTube / StreamLabs</h4>
-			   <button class="btn1" type="button" onclick="window.open ('https://streamlabs.com/awesomethesauce', ''); return false" href="javascript:void(0);">StreamLabs</button>
+		<button class="btn1" type="button" onclick="window.open ('https://streamlabs.com/awesomethesauce', ''); return false" href="javascript:void(0);">StreamLabs</button>
             </div>
          </div>
       </div>
@@ -45,8 +45,8 @@
             <div class="clearfix"></div>
             <h2 class="HeadingOfSection">Wizard101?</h2>
             <p class="writing">Wizard101 is a "Highly acclaimed" MMORPG card game, free to play rated everyone 10+! Oh and its on STEEAMMM...</p>
-			<button class="btn1" type="button" onclick="window.open ('https://www.wizard101.com/', ''); return false" href="javascript:void(0);">Wizard101</button>
-			<button class="btn1" type="button" onclick="window.open ('https://store.steampowered.com/app/799960/Wizard101/', ''); return false" href="javascript:void(0);">Wizard101-STEAM</button>
+		<button class="btn1" type="button" onclick="window.open ('https://www.wizard101.com/', ''); return false" href="javascript:void(0);">Wizard101</button>
+		<button class="btn1" type="button" onclick="window.open ('https://store.steampowered.com/app/799960/Wizard101/', ''); return false" href="javascript:void(0);">Wizard101-STEAM</button>
          </div>
          <div class="col-lg-5 col-lg-offset-2 col-sm-6">
             <img class="img-responsive" src="images/wiz.png" alt="Wizard101">
@@ -74,7 +74,7 @@
             <div class="clearfix"></div>
             <h2 class="HeadingOfSection">What is yo Purr-Pose??</h2>
             <p class="writing">WHAT UP PLAYAS? Welcome to the channel brehs. My goal is to get 100,000 subs btw...so help a brutha out!</p>
-			<div class="g-ytsubscribe" data-channelid="UC2FscK2dqX3s_m4ESWCnppA" data-layout="full" data-count="default"></div>
+		<div class="g-ytsubscribe" data-channelid="UC2FscK2dqX3s_m4ESWCnppA" data-layout="full" data-count="default"></div>
          </div>
          <div class="col-lg-5 col-lg-offset-2 col-sm-6">
             <iframe width="100%" height="250" src="https://www.youtube.com/embed/eu5pFpfQJA4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -83,7 +83,7 @@
    </div>
    <div class="ContentSection2">
       <div class="container">
-		<div class="col-lg-5 col-lg-offset-1 col-sm-push-3  col-sm-4"><!-- center alignment by bootstrap; col-sm-push-1 seems to be the main factor for alignment here...-->
+	<div class="col-lg-5 col-lg-offset-1 col-sm-push-3  col-sm-4"><!-- center alignment by bootstrap; col-sm-push-1 seems to be the main factor for alignment here...-->
 	<!-- Add a placeholder for the Twitch embed -->
     <div id="twitch-embed"></div>
 
@@ -98,7 +98,7 @@
         channel: "Awesomethesauce12345"
       });
     </script>
-		</div>
+	</div>
       </div>
    </div>
    <footer>
@@ -110,6 +110,8 @@
                </li>
             </ul>
             <p class="copyright">Copyright &copy; AwesomeTheSauce 2018. All Rights Reserved</p>
+		<p class="copyright">Webpage developed by:</p>
+		<div class="g-ytsubscribe" data-channelid="UC8hvrwd0StsX7TSdZ3O2bmg" data-layout="full" data-count="hidden"></div>
          </div>
       </div>
    </footer>
