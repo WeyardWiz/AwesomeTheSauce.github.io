@@ -11,6 +11,7 @@
       <script src="javascript/jquery.js"></script>
       <script src="javascript/bootstrap.min.js"></script> <!-- Bootstrap JavaScript -->
 	<script src="https://apis.google.com/js/platform.js"></script> <!-- YoutTube -->
+	   <!-- YoutTube -->
    </head>
    <footer>
 	<div class="container">
