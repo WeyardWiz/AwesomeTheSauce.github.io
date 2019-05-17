@@ -30,7 +30,7 @@
          <div class="col-lg-12">
             <!--col-lg, (large) the columns will stack when the width is < 1200px.-->
             <div class="RetroIntroductionMessageStyle">
-               <h1 style="color:white;"><i>Roula Younis</i></h1>
+               <h1 style="color:white;"><i>AwesomeTheSauce</i></h1>
                <h3 style="color:lightgreen;">Saucing forever ~<!--<br><i>~</i> Saucia.</br>--> </h3>
                <hr class="RetroIntroductionDivider">
                <h4 style="color:white;">Like the content? Support me on</h4> <h4 style="color:orange;">YouTube / StreamLabs</h4>
@@ -54,47 +54,6 @@
          </div>
       </div>
    </div>
-   <div class="ContentSection1">
-      <div class="container">
-         <div class="col-lg-5 col-sm-6">
-            <hr class="HeadingOfSection-space">
-            <div class="clearfix"></div>
-            <h2 class="HeadingOfSection">Wizard101?</h2>
-            <p class="writing">Wizard101 is a "Highly acclaimed" MMORPG card game, free to play rated everyone 10+! Oh and its on STEEAMMM...</p>
-		<button class="btn1" type="button" onclick="window.open ('https://www.wizard101.com/', ''); return false" href="javascript:void(0);">Wizard101</button>
-		<button class="btn1" type="button" onclick="window.open ('https://store.steampowered.com/app/799960/Wizard101/', ''); return false" href="javascript:void(0);">Wizard101-STEAM</button>
-         </div>
-         <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-            <img class="img-responsive" src="images/wiz.png" alt="Wizard101">
-         </div>
-      </div>
-   </div>   <div class="ContentSection1">
-      <div class="container">
-         <div class="col-lg-5 col-sm-6">
-            <hr class="HeadingOfSection-space">
-            <div class="clearfix"></div>
-            <h2 class="HeadingOfSection">Wizard101?</h2>
-            <p class="writing">Wizard101 is a "Highly acclaimed" MMORPG card game, free to play rated everyone 10+! Oh and its on STEEAMMM...</p>
-		<button class="btn1" type="button" onclick="window.open ('https://www.wizard101.com/', ''); return false" href="javascript:void(0);">Wizard101</button>
-		<button class="btn1" type="button" onclick="window.open ('https://store.steampowered.com/app/799960/Wizard101/', ''); return false" href="javascript:void(0);">Wizard101-STEAM</button>
-         </div>
-         <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-            <img class="img-responsive" src="images/wiz.png" alt="Wizard101">
-         </div>
-      </div>
-   </div>   <div class="ContentSection1">
-      <div class="container">
-         <div class="col-lg-5 col-sm-6">
-            <hr class="HeadingOfSection-space">
-            <div class="clearfix"></div>
-            <h2 class="HeadingOfSection">Wizard101?</h2>
-            <p class="writing">i like cooking</p>
-         </div>
-         <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-            <img class="img-responsive" src="" alt="Wizard101">
-         </div>
-      </div>
-   </div>		
    <div class="ContentSection2">
       <div class="container">
          <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
